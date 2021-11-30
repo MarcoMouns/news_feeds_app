@@ -1,4 +1,4 @@
-# link_dev
+# news_feeds_app
 
 A new Flutter application.
 
